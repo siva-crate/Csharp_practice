@@ -1,0 +1,14 @@
+C:\Users\ctuser\Desktop\shiva\c#Learnings\bin\Debug\net9.0\c#Learnings.exe
+C:\Users\ctuser\Desktop\shiva\c#Learnings\bin\Debug\net9.0\c#Learnings.deps.json
+C:\Users\ctuser\Desktop\shiva\c#Learnings\bin\Debug\net9.0\c#Learnings.runtimeconfig.json
+C:\Users\ctuser\Desktop\shiva\c#Learnings\bin\Debug\net9.0\c#Learnings.dll
+C:\Users\ctuser\Desktop\shiva\c#Learnings\bin\Debug\net9.0\c#Learnings.pdb
+C:\Users\ctuser\Desktop\shiva\c#Learnings\obj\Debug\net9.0\c#Learnings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctuser\Desktop\shiva\c#Learnings\obj\Debug\net9.0\c#Learnings.AssemblyInfoInputs.cache
+C:\Users\ctuser\Desktop\shiva\c#Learnings\obj\Debug\net9.0\c#Learnings.AssemblyInfo.cs
+C:\Users\ctuser\Desktop\shiva\c#Learnings\obj\Debug\net9.0\c#Learnings.csproj.CoreCompileInputs.cache
+C:\Users\ctuser\Desktop\shiva\c#Learnings\obj\Debug\net9.0\c#Learnings.dll
+C:\Users\ctuser\Desktop\shiva\c#Learnings\obj\Debug\net9.0\refint\c#Learnings.dll
+C:\Users\ctuser\Desktop\shiva\c#Learnings\obj\Debug\net9.0\c#Learnings.pdb
+C:\Users\ctuser\Desktop\shiva\c#Learnings\obj\Debug\net9.0\c#Learnings.genruntimeconfig.cache
+C:\Users\ctuser\Desktop\shiva\c#Learnings\obj\Debug\net9.0\ref\c#Learnings.dll

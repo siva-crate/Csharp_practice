@@ -1,0 +1,1 @@
+// When an object is assigned to an object variable of the specific type.
